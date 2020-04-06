@@ -1,7 +1,41 @@
 # Personnalized ignore :
-*.py
 *Copy*
 
-*.pkl
-*.pdf
+.vscode
+.idea
+
+.ipynb_checkpoints
+
+*.py
+*.pyc
+*.so
+*.dll
+
+*.db
+*.TMP
+*.html
 *.csv
+*.csv#
+*.pdf
+
+*.jpg
+*.jpeg
+*.png
+*.ppm
+*.tif
+*.tiff
+*.gif
+*.gz
+*.ini
+
+
+*.pkl
+*.pickle
+
+*.RDS
+*.Rhistory
+
+# saved models
+*.pth
+# logs
+runs/
