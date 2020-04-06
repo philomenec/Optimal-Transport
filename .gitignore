@@ -1,3 +1,11 @@
+# Personnalized ignore :
+*Copy*
+ressources
+*.py
+
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
