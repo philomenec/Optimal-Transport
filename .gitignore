@@ -1,5 +1,6 @@
 # Personnalized ignore :
 *Copy*
+*python.ipynb
 
 .vscode
 .idea
