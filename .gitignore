@@ -1,6 +1,8 @@
 # Personnalized ignore :
 *Copy*
 *python.ipynb
+.ipynb_checkpoints
+old
 
 .vscode
 .idea
